@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width:100%; height:100%;
+}
+canvas {
+  display: block;
+  border: 3px solid rgb(0, 247, 0);
+  margin-right:5%;
+  margin-left:5%;
+  margin-top: 100px;
+
+}
+h1{
+  font-size: 50px
+}
+select { font-size: 35px}
+input{font-size: 35px}
+button{font-size: 35px}
